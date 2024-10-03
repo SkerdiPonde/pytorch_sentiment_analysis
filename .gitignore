@@ -1,0 +1,4 @@
+.vector_cache/
+.ipynb_checkpoints/
+myenv/
+ce_hd_200_weights.pth
